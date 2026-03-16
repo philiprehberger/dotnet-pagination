@@ -106,6 +106,12 @@ var result = await queryable.ToPagedResultAsync(page: 2, pageSize: 10, cancellat
 | `ToPagedResult<T>(page, pageSize)` | `PagedResult<T>` | Paginates a queryable source |
 | `ToPagedResultAsync<T>(page, pageSize, ct)` | `Task<PagedResult<T>>` | Async pagination via Task.Run |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Pagination.csproj --configuration Release
+```
+
 ## License
 
 MIT
