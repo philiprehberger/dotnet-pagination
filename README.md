@@ -1,5 +1,9 @@
 # Philiprehberger.Pagination
 
+[![CI](https://github.com/philiprehberger/dotnet-pagination/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-pagination/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Pagination.svg)](https://www.nuget.org/packages/Philiprehberger.Pagination)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-pagination)](LICENSE)
+
 Standardized pagination primitives — PagedResult, cursor-based pagination, and IQueryable extensions.
 
 ## Install
