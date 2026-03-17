@@ -6,7 +6,7 @@
 
 Standardized pagination primitives — PagedResult, cursor-based pagination, and IQueryable extensions.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Pagination
