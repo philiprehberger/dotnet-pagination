@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.Pagination</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Standardized pagination primitives — PagedResult, cursor-based pagination, and IQueryable extensions</Description>
+    <Description>Standardized pagination primitives — PagedResult, cursor-based pagination, and IQueryable extensions.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-pagination</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
