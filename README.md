@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-pagination/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-pagination/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Pagination.svg)](https://www.nuget.org/packages/Philiprehberger.Pagination)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-pagination)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-pagination)](https://github.com/philiprehberger/dotnet-pagination/commits/main)
 
 Standardized pagination primitives — PagedResult, cursor-based pagination, and IQueryable extensions.
 
@@ -112,6 +111,24 @@ var result = await queryable.ToPagedResultAsync(page: 2, pageSize: 10, cancellat
 ```bash
 dotnet build src/Philiprehberger.Pagination.csproj --configuration Release
 ```
+
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-pagination)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-pagination/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-pagination/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
 
 ## License
 
